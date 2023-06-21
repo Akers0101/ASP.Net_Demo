@@ -1,0 +1,12 @@
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\bin\Debug\net6.0\MongoDB_Repository.deps.json
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\bin\Debug\net6.0\MongoDB_Repository.dll
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\bin\Debug\net6.0\MongoDB_Repository.pdb
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.csproj.AssemblyReference.cache
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.AssemblyInfoInputs.cache
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.AssemblyInfo.cs
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.csproj.CoreCompileInputs.cache
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.dll
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\refint\MongoDB_Repository.dll
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\MongoDB_Repository.pdb
+C:\Users\kunhp\OneDrive\Documents\Code\MongoDB_Repository\MongoDB_Repository\obj\Debug\net6.0\ref\MongoDB_Repository.dll
